@@ -1,0 +1,29 @@
+{
+  "name": "express_assignment_day2",
+  "version": "1.0.0",
+  "description": "This is my solution for assignment#2 for Day2 ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3ouri/express-assignment2-day2.git"
+  },
+  "keywords": [
+    "EXPRESS",
+    "NODE",
+    "DOTENV"
+  ],
+  "author": "Abdallah Mustafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3ouri/express-assignment2-day2/issues"
+  },
+  "homepage": "https://github.com/3ouri/express-assignment2-day2#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
